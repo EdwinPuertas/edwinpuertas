@@ -5,16 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=S_OvkYEAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 * Puertas, E., Moreno-Sandoval, L.G., Redondo, J. et al. Detection of Sociolinguistic Features in Digital Social Networks for the Detection of Communities. Cogn Comput (2021). https://doi.org/10.1007/s12559-021-09818-9
 
 * L. G. Moreno-Sandoval, E. Puertas, J. A. Alvarado-Valencia, and A. Pomares-Quimbaya, "Assembly of polarity, emotion and user statistics for detection of fake profiles Notebook for PAN at CLEF 2020".
