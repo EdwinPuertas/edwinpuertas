@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &@OafToBark23
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Edwin Puertas"
+  avatar           : "IMG_1887.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  location         : "Cartagena, Colombia"
+  employer         : "Universidad Tecnológica de Bolívar"
+  googlescholar    : "https://scholar.google.com/citations?user=S_OvkYEAAAAJ&hl=en"
+  email            : "epuerta@utb.edu.co"
+  researchgate     : "https://www.researchgate.net/profile/Edwin_Puertas2"
   uri              :
   bitbucket        :
   codepen          :
