@@ -28,15 +28,22 @@ Work experience
 
 Skills
 ======
-* Back-End Languages (Advanced)
+* Artificial intelligence (Advanced)
+  * Statistical Analysis
+  * Machine Learning Concepts and Methods
+  * Text Representation Techniques
+  * Algorithm Analysis
+* Computer Programming Languages (Advanced)
   * Python, C++, C\#, Java
-* Front-End Languages (Advanced)
   * ASP.NET, JavaScript, HTML, XML , WSDL
 * Database (Advanced)}
   * SQL Server, MySql, MongoDB
-* Database (Intermediate)
   * Oracle 9i, Interbase 6.0, Paradox
-\cvitem{Business skills}{Good presentation, Works well in a team, Good soldering, spot welding skills, Can write well organised and structured reports
+* Business skills
+  * Good presentation
+  * Works well in a team
+  * Good solderin and spot welding
+  * Can write well organised and structured reports
 
 Publications
 ======
