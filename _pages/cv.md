@@ -17,23 +17,26 @@ Education
 
 Work experience
 ======
-* Assistant Professor at Universidad Tecnológica de Bolívar: I worked on the use of new paradigms of programming, advanced architectures of software, computer oriented to the service. In addition, I specialize in application development in Java, .NET, Delphi, C ++, and applying the best techniques and best practices in software engineering and the application of design patterns. I have knowledge and experience in the design and implementation of solutions in different programming languages, platforms, and computing environments. Courses taught; Software Engineering, Data Structures, Computer Theory, Programming of Languages, Algorithms and Programming, Object Oriented Programming, Programming in. NET, Java Programming, C ++ Programming, Web Design (HTML, CSS, Layout, PHP).
+* Assistant Professor at Universidad Tecnológica de Bolívar (2008-Present): I worked on the use of new paradigms of programming, advanced architectures of software, computer oriented to the service. In addition, I specialize in application development in Java, .NET, Delphi, C ++, and applying the best techniques and best practices in software engineering and the application of design patterns. I have knowledge and experience in the design and implementation of solutions in different programming languages, platforms, and computing environments. Courses taught; Software Engineering, Data Structures, Computer Theory, Programming of Languages, Algorithms and Programming, Object Oriented Programming, Programming in. NET, Java Programming, C ++ Programming, Web Design (HTML, CSS, Layout, PHP).
 
-* Senior Data Scientist at Center of Excellence in Ownership in Big Data and Data Analytic - CAOBA: Development of engineering and research projects in Big Data and Data Analytic, Support in the administrative and logistical processes, support in the elaboration of research articles and support in the academic formation of the students, in the Center of Excellence and Appropriation in Big Data and Data Analytic (CAOBA).
+* Senior Data Scientist at Center of Excellence in Ownership in Big Data and Data Analytic - CAOBA (July 2016 - Dec 2020): Development of engineering and research projects in Big Data and Data Analytic, Support in the administrative and logistical processes, support in the elaboration of research articles and support in the academic formation of the students, in the Center of Excellence and Appropriation in Big Data and Data Analytic (CAOBA).
 
-* Student Research at Universitat Politècnica de València (UPV): During this instance, I focus on advancing my research project, attending scientific events, developing scientific publications, identifying areas of interest that will allow the creation of bilateral cooperation links.}}
+* Student Research at Universitat Politècnica de València (UPV) (Jan 2019 - Mar 2019): During this instance, I focus on advancing my research project, attending scientific events, developing scientific publications, identifying areas of interest that will allow the creation of bilateral cooperation links.}}
 
-* Student Research at University of Turin: }During this instance, I focus on advancing my research work, attending scientific events, developing scientific publications, identifying areas of interest that allow the creation of bilateral cooperation links with researchers at the University of Turin.
+* Student Research at University of Turin (Oct 2018 - Jan 2019): During this instance, I focus on advancing my research work, attending scientific events, developing scientific publications, identifying areas of interest that allow the creation of bilateral cooperation links with researchers at the University of Turin.
 
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Back-End Languages (Advanced)
+  * Python, C++, C\#, Java
+* Front-End Languages (Advanced)
+  * ASP.NET, JavaScript, HTML, XML , WSDL
+* Database (Advanced)}
+  * SQL Server, MySql, MongoDB
+* Database (Intermediate)
+  * Oracle 9i, Interbase 6.0, Paradox
+\cvitem{Business skills}{Good presentation, Works well in a team, Good soldering, spot welding skills, Can write well organised and structured reports
 
 Publications
 ======
