@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Edwin Puertas"
   avatar           : "IMG_1887.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant Professor | AI Scientist"
   location         : "Cartagena, Colombia"
   employer         : "Universidad Tecnológica de Bolívar"
   googlescholar    : "https://scholar.google.com/citations?user=S_OvkYEAAAAJ&hl=en"
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/EdwinPuertas"
+  github           : "EdwinPuertas"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/edwinpuertas/"
   orcid            : "https://orcid.org/0000-0002-0758-1851"
   pinterest        :
   soundcloud       :
