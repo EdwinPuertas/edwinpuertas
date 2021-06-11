@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Vásquez, J., Aguirre, S., Puertas, E., Bruno, G., Priarone, P. C., & Settineri, L. (2021). A sustainability maturity model for micro, small and medium-sized enterprises (MSMEs) based on a data analytics evaluation approach. Journal of Cleaner Production, 127692.
+
 * Puertas, E., Moreno-Sandoval, L.G., Redondo, J. et al. Detection of Sociolinguistic Features in Digital Social Networks for the Detection of Communities. Cogn Comput (2021). https://doi.org/10.1007/s12559-021-09818-9
 
 * L. G. Moreno-Sandoval, E. Puertas, J. A. Alvarado-Valencia, and A. Pomares-Quimbaya, "Assembly of polarity, emotion and user statistics for detection of fake profiles Notebook for PAN at CLEF 2020".
